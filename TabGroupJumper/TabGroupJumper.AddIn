@@ -2,7 +2,7 @@
 <Extensibility xmlns="http://schemas.microsoft.com/AutomationExtensibility">
 	<HostApplication>
 		<Name>Microsoft Visual Studio</Name>
-		<Version>11.0</Version>
+		<Version>12.0</Version>
 	</HostApplication>
 	<Addin>
 		<FriendlyName>TabGroupJumper</FriendlyName>
